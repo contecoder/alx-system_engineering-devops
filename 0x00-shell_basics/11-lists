@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -all
-ls -all ../
-ls -all /boot
+ls -all 11-lists ../ /boot
